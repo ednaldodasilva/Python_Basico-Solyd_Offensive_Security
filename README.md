@@ -1,1 +1,1 @@
-# python_basico
+#Olá, seja bem vindo ao repositório de "PYTHON BASICO", onde contém todos os arquivos e códigos que aprendi no curso de Python da Solyd Offensive Security. Recomendo a todos que estão iniciando na programação a fazer o curso, principalmente para os interessados na aréa de Cybersegurança! Façam bom aproveito e bons estudos... Obs:. é necessário uma IDE para rodar os programas. Recomendo VS Code ou o PyCharm.
